@@ -12,10 +12,9 @@ Rules
 
 ---
 
-## Template
+## Template　実際にmd内に記載するのは↓から
 
 ```markdown
-実際にmd内に記載するのは↓から
 ---
 title: タイトル
 author: 著者名
